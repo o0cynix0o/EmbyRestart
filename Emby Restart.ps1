@@ -6,7 +6,7 @@ Stop-Process -Name "EmbyServer"
 
 Stop-Process -Name "embytray"
 
-#Pause for prelocess to close. 
+#Pause for process to close. 
 
 Start-Sleep -Seconds 5
 
